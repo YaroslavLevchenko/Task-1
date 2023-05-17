@@ -1,0 +1,8 @@
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.AssemblyReference.cache
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\olena\OneDrive\Рабочий стол\Yarik\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
