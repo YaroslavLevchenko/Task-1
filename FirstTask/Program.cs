@@ -29,13 +29,11 @@ namespace FirstTask
         public int GettingArea()
         {
             area = sideOfTheSquare * sideOfTheSquare;
-            //Console.WriteLine(area);
             return area;
         }
         public int GettingPerimeter()
         {
             perimeter = sideOfTheSquare * 4;
-            //Console.WriteLine(perimeter);
             return perimeter;
         }
 
@@ -99,7 +97,6 @@ namespace FirstTask
         {
             // task 1
             Shape shape = new Shape();
-            // IShape shape = new Shape(); // можна зробити ще так, але на цьому кейсі і сенсу нема:)
             Console.WriteLine("Please indicate the side of a square: ");
             shape.SideOfTheSquare = int.Parse(Console.ReadLine());
             Console.WriteLine("Here is the Area:" + " " + $"{shape.GettingArea()}");
