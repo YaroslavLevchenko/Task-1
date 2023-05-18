@@ -105,7 +105,7 @@ namespace FirstTask
             //task 2
             Info info = new Info();
             Console.WriteLine("What is your name: ");
-            info.Name = Convert.ToString(Console.ReadLine());
+            info.Name = Console.ReadLine();
             Console.WriteLine("How old are you?", info.Name);
             info.Age = int.Parse(Console.ReadLine());
             Console.WriteLine(info.Name + " " + info.Age);
